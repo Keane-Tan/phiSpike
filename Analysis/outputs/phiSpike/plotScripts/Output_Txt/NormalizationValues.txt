@@ -1,0 +1,136 @@
+if fl == "Data16":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 172.0
+	if var == "AK8jet[1]_etaphi":
+		zmax = 527.0
+	if var == "AK8jet[2]_etaphi":
+		zmax = 28.0
+	if var == "AK8jet[3]_etaphi":
+		zmax = 4.0
+	if var == "AK4jet[0]_etaphi":
+		zmax = 178.0
+	if var == "AK4jet[1]_etaphi":
+		zmax = 614.0
+	if var == "AK4jet[2]_etaphi":
+		zmax = 47.0
+	if var == "AK4jet[3]_etaphi":
+		zmax = 30.0
+if fl == "QCD16":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 233.8334198
+	if var == "AK8jet[1]_etaphi":
+		zmax = 423.674591064
+	if var == "AK8jet[2]_etaphi":
+		zmax = 30.3885364532
+	if var == "AK8jet[3]_etaphi":
+		zmax = 13.3354139328
+	if var == "AK4jet[0]_etaphi":
+		zmax = 233.217590332
+	if var == "AK4jet[1]_etaphi":
+		zmax = 447.355712891
+	if var == "AK4jet[2]_etaphi":
+		zmax = 232.027633667
+	if var == "AK4jet[3]_etaphi":
+		zmax = 28.4290790558
+if fl == "Data17":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 231.0
+	if var == "AK8jet[1]_etaphi":
+		zmax = 589.0
+	if var == "AK8jet[2]_etaphi":
+		zmax = 42.0
+	if var == "AK8jet[3]_etaphi":
+		zmax = 5.0
+	if var == "AK4jet[0]_etaphi":
+		zmax = 244.0
+	if var == "AK4jet[1]_etaphi":
+		zmax = 697.0
+	if var == "AK4jet[2]_etaphi":
+		zmax = 78.0
+	if var == "AK4jet[3]_etaphi":
+		zmax = 32.0
+if fl == "QCD17":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 109.397438049
+	if var == "AK8jet[1]_etaphi":
+		zmax = 605.934448242
+	if var == "AK8jet[2]_etaphi":
+		zmax = 23.4741764069
+	if var == "AK8jet[3]_etaphi":
+		zmax = 4.283162117
+	if var == "AK4jet[0]_etaphi":
+		zmax = 108.07900238
+	if var == "AK4jet[1]_etaphi":
+		zmax = 670.706176758
+	if var == "AK4jet[2]_etaphi":
+		zmax = 111.244697571
+	if var == "AK4jet[3]_etaphi":
+		zmax = 15.95408535
+if fl == "Data18PRE":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 47.0
+	if var == "AK8jet[1]_etaphi":
+		zmax = 294.0
+	if var == "AK8jet[2]_etaphi":
+		zmax = 18.0
+	if var == "AK8jet[3]_etaphi":
+		zmax = 4.0
+	if var == "AK4jet[0]_etaphi":
+		zmax = 52.0
+	if var == "AK4jet[1]_etaphi":
+		zmax = 326.0
+	if var == "AK4jet[2]_etaphi":
+		zmax = 36.0
+	if var == "AK4jet[3]_etaphi":
+		zmax = 19.0
+if fl == "QCD18PRE":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 21.9174785614
+	if var == "AK8jet[1]_etaphi":
+		zmax = 338.850036621
+	if var == "AK8jet[2]_etaphi":
+		zmax = 15.5412015915
+	if var == "AK8jet[3]_etaphi":
+		zmax = 5.09862232208
+	if var == "AK4jet[0]_etaphi":
+		zmax = 25.6687889099
+	if var == "AK4jet[1]_etaphi":
+		zmax = 370.0809021
+	if var == "AK4jet[2]_etaphi":
+		zmax = 23.3281745911
+	if var == "AK4jet[3]_etaphi":
+		zmax = 12.38971138
+if fl == "Data18POST":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 82.0
+	if var == "AK8jet[1]_etaphi":
+		zmax = 602.0
+	if var == "AK8jet[2]_etaphi":
+		zmax = 29.0
+	if var == "AK8jet[3]_etaphi":
+		zmax = 5.0
+	if var == "AK4jet[0]_etaphi":
+		zmax = 87.0
+	if var == "AK4jet[1]_etaphi":
+		zmax = 679.0
+	if var == "AK4jet[2]_etaphi":
+		zmax = 61.0
+	if var == "AK4jet[3]_etaphi":
+		zmax = 28.0
+if fl == "QCD18POST":
+	if var == "AK8jet[0]_etaphi":
+		zmax = 38.7591094971
+	if var == "AK8jet[1]_etaphi":
+		zmax = 593.931030273
+	if var == "AK8jet[2]_etaphi":
+		zmax = 25.451669693
+	if var == "AK8jet[3]_etaphi":
+		zmax = 9.3451089859
+	if var == "AK4jet[0]_etaphi":
+		zmax = 45.4079933167
+	if var == "AK4jet[1]_etaphi":
+		zmax = 648.458496094
+	if var == "AK4jet[2]_etaphi":
+		zmax = 40.0134658813
+	if var == "AK4jet[3]_etaphi":
+		zmax = 22.7072582245

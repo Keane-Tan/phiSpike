@@ -1,0 +1,2 @@
+if ((Jets[1].Eta() - 1.488)**2 + (Jets[1].Phi() - -0.77)**2 <= rad) or ((Jets[1].Eta() - 1.488)**2 + (Jets[1].Phi() - -0.63)**2 <= rad) or ((Jets[1].Eta() - 1.584)**2 + (Jets[1].Phi() - -0.77)**2 <= rad) or ((Jets[1].Eta() - 1.584)**2 + (Jets[1].Phi() - -0.63)**2 <= rad) or ((Jets[1].Eta() - -1.008)**2 + (Jets[1].Phi() - -1.61)**2 <= rad):
+

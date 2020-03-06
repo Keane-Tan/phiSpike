@@ -1,0 +1,79 @@
+		if fl == "Data16":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 204.0
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 535.0
+			if var == "AK4jet_etaphi_lead":
+				zmax = 225.0
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 585.0
+
+		if fl == "QCD16":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 98.8339614868
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 445.254821777
+			if var == "AK4jet_etaphi_lead":
+				zmax = 97.4095611572
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 497.279418945
+
+		if fl == "Data17":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 319.0
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 682.0
+			if var == "AK4jet_etaphi_lead":
+				zmax = 332.0
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 738.0
+
+		if fl == "QCD17":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 183.936309814
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 762.797363281
+			if var == "AK4jet_etaphi_lead":
+				zmax = 182.84677124
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 857.993164062
+
+		if fl == "Data18PRE":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 135.0
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 331.0
+			if var == "AK4jet_etaphi_lead":
+				zmax = 129.0
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 343.0
+
+		if fl == "QCD18PRE":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 84.0657730103
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 411.175689697
+			if var == "AK4jet_etaphi_lead":
+				zmax = 81.9105300903
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 466.00289917
+
+		if fl == "Data18POST":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 231.0
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 598.0
+			if var == "AK4jet_etaphi_lead":
+				zmax = 228.0
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 656.0
+
+		if fl == "QCD18POST":
+			if var == "AK8jet_etaphi_lead":
+				zmax = 142.819503784
+			if var == "AK8jet_etaphi_sublead":
+				zmax = 718.190734863
+			if var == "AK4jet_etaphi_lead":
+				zmax = 144.20211792
+			if var == "AK4jet_etaphi_sublead":
+				zmax = 812.783935547

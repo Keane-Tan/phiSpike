@@ -1,0 +1,16 @@
+# Looking at the 1D plots for 2016 and 2017 no filter applied.
+
+[0.048,0.24,1.488,1.584,-1.008]
+[-0.35,-0.35,-0.77,-0.77,-1.61]
+
+[0.144,1.488,1.488,1.584,-0.624]
+[-0.35,-0.77,-0.63,-0.77,0.91]
+
+# Looking at the 1D plots for 2018Pre and 2018Post with 0.35 Rad Filter applied.
+[1.488,1.488]
+[-0.77,-0.63]
+
+[1.488,1.488,1.584]
+[-0.77,-0.63,-0.77]
+
+# The last set of values should be valid for both 2018Pre and PostHEM

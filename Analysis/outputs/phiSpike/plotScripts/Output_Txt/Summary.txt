@@ -1,0 +1,19 @@
+< means worse than
+
+the numbers mean "Data16QCD16_Data17QCD17_ ..." 
+
+"7070_6565_6560_6260" discards very few events # rerun, screwed up no cut
+7070_6565_6560_6260 < noCut
+
+"3235_4541_3541_4739" a much tighter selection
+3235_4541_3541_4739 < noCut
+
+"2222_3029_2734_3027" even tighter cut
+
+_________________________________________________________________________
+
+After fixing several issues like using mt not lowmt skim files and the right puWeight, just need to use medium selection with a radius around each hot spot
+
+3431_4629_2923_3623
+
+
